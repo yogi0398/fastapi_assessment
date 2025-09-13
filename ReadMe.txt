@@ -18,7 +18,7 @@ It supports CRUD operations, search, aggregations.
 2. INSTALLATION
 ------------------------------------------------------------
 1. Clone the repository:
-   git clone https://github.com/<yogi0398>/<fastapi_assessment>.git
+   git clone https://github.com/yogi0398/fastapi_assessment.git
 
 2. Create a virtual environment:
    python -m venv venv
